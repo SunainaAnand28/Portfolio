@@ -73,7 +73,7 @@
   .socialIcon {
     width: 48px;
     height: 48px;
-    filter: brightness(0) invert(1); /* This makes white SVG appear as white on dark themes */
+    filter: brightness(0) invert(1);
     transition: transform 0.3s ease, filter 0.3s ease;
   }
   
